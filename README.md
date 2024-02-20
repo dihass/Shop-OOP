@@ -1,2 +1,2 @@
 # Shop-OOP
-Java Swing based GUI of a shopping manager utilising
+Java Swing based GUI of a shopping manager utilising OOP concepts 
